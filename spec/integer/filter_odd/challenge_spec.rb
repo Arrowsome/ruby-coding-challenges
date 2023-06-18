@@ -1,4 +1,4 @@
-require_relative 'solution'
+# require_relative 'solution'
 
 def filter_odd(list)
   raise NotImplementedError
