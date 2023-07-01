@@ -54,3 +54,7 @@ multiple times and be persistent over time.
 - [Count down](spec/integer/countdown)
 - [Count up then down](spec/integer/count_up_then_down)
 - [Format train route](spec/list/format_train_route)
+- [Generate all pairs](spec/integer/generate_all_pairs)
+- [Count unique values](spec/list/count_unique_values)
+- [Print number](spec/integer/print_numbers/basic)
+- [Print number with steps](spec/integer/print_numbers/steps)
