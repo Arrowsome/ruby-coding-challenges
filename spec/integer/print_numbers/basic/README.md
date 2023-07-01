@@ -10,10 +10,10 @@ value is zero then empty list should be returned.
 ## Examples
 
 ```ruby
-print_number(0) # []
+print_numbers(0) # []
 
-print_number(2) # [2, 1]
+print_numbers(2) # [2, 1]
 
-print_number(5) # [5, 4, 3, 2, 1]
+print_numbers(5) # [5, 4, 3, 2, 1]
 ```
 
