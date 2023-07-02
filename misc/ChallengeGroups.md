@@ -28,9 +28,10 @@ List of problems that can be solved using [recursion](https://en.wikipedia.org/w
 - [Count up and down](../spec/integer/count_up_then_down/README.md)
 - [Generate all pairs](../spec/integer/generate_all_pairs/README.md)
 - [Get odd numbers](../spec/integer/filter_odd/README.md)
-- [Power](../spec/integer/power/README.md)
 - [Print numbers](../spec/integer/print_numbers/basic/README.md)
 - [Print numbers with steps](../spec/integer/print_numbers/steps/README.md)
+- [Power](../spec/integer/power/README.md)
+- [Factorial](../spec/integer/factorial)
 
 ## String
 
