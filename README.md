@@ -58,3 +58,4 @@ multiple times and be persistent over time.
 - [Count unique values](spec/list/count_unique_values)
 - [Print number](spec/integer/print_numbers/basic)
 - [Print number with steps](spec/integer/print_numbers/steps)
+- [Power](spec/integer/power)
