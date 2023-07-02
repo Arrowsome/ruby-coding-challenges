@@ -24,6 +24,7 @@ List of problems that can be solved using [recursion](https://en.wikipedia.org/w
 ### Other list challenges
 
 - [Product](../spec/list/product/README.md)
+- [Capitalize First](../spec/list/capitalize_first/README.md)
 
 ## Integer
 
@@ -41,6 +42,7 @@ List of problems that can be solved using [recursion](https://en.wikipedia.org/w
 
 - [Capitalize sentence](../spec/string/capitalize_sentence/README.md)
 - [Format train route](../spec/list/format_train_route/README.md)
+- [Decapitalize const](../spec/string/decapitalize_const/README.md)
 
 ## Range
 

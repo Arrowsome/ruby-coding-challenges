@@ -56,7 +56,9 @@ multiple times and be persistent over time.
 - [Format train route](spec/list/format_train_route)
 - [Generate all pairs](spec/integer/generate_all_pairs)
 - [Count unique values](spec/list/count_unique_values)
-- [Print number](spec/integer/print_numbers/basic)
+- [Print number](spec/integer/print_numbers/basic)z
 - [Print number with steps](spec/integer/print_numbers/steps)
 - [Power](spec/integer/power)
 - [Product](spec/list/product)
+- [Capitalize first](spec/list/capitalize_first)
+- [Decapitalize const](spec/string/decapitalizeconst)
