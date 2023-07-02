@@ -62,3 +62,4 @@ multiple times and be persistent over time.
 - [Product](spec/list/product)
 - [Capitalize first](spec/list/capitalize_first)
 - [Decapitalize const](spec/string/decapitalizeconst)
+- [Longest word](spec/string/longest_word)

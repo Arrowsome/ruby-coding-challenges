@@ -43,6 +43,7 @@ List of problems that can be solved using [recursion](https://en.wikipedia.org/w
 - [Capitalize sentence](../spec/string/capitalize_sentence/README.md)
 - [Format train route](../spec/list/format_train_route/README.md)
 - [Decapitalize const](../spec/string/decapitalize_const/README.md)
+- [Longest word](../spec/string/longest_word/README.md)
 
 ## Range
 
