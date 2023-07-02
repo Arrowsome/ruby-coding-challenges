@@ -59,3 +59,4 @@ multiple times and be persistent over time.
 - [Print number](spec/integer/print_numbers/basic)
 - [Print number with steps](spec/integer/print_numbers/steps)
 - [Power](spec/integer/power)
+- [Product](spec/list/product)

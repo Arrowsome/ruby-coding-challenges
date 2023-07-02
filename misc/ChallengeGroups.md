@@ -21,6 +21,10 @@ List of problems that can be solved using [recursion](https://en.wikipedia.org/w
 
 - [Linear search](../spec/list/search/linear_search/README.md)
 
+### Other list challenges
+
+- [Product](../spec/list/product/README.md)
+
 ## Integer
 
 - [Add up to](../spec/integer/add_upto/README.md)
