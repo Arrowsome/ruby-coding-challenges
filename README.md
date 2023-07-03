@@ -68,3 +68,4 @@ multiple times and be persistent over time.
 
 - [Is palindrome](spec/string/is_palindrome/basic)
 - [Is tolerant palindrome](spec/string/is_palindrome/tolerant)
+- [Is permutation palindrome](spec/string/is_palindrome/permutation)

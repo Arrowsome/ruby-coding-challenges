@@ -45,6 +45,7 @@ List of problems that can be solved using [recursion](https://en.wikipedia.org/w
 - [Decapitalize const](../spec/string/decapitalize_const/README.md)
 - [Is palindrome](../spec/string/is_palindrome/basic/README.md)
 - [Is tolerant palindrome](../spec/string/is_palindrome/tolerant/README.md)
+- [Is permutation palindrome](../spec/string/is_palindrome/permutation/README.md)
 - [Longest word](../spec/string/longest_word/README.md)
 
 ## Range
