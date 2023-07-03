@@ -67,3 +67,4 @@ multiple times and be persistent over time.
 **Apprentice**
 
 - [Is palindrome](spec/string/is_palindrome/basic)
+- [Is tolerant palindrome](spec/string/is_palindrome/tolerant)
