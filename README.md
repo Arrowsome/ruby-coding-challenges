@@ -63,3 +63,7 @@ multiple times and be persistent over time.
 - [Capitalize first](spec/list/capitalize_first)
 - [Decapitalize const](spec/string/decapitalize_const)
 - [Longest word](spec/string/longest_word)
+
+**Apprentice**
+
+- [Is palindrome](spec/string/is_palindrome/basic)
