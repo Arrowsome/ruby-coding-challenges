@@ -14,6 +14,7 @@ List of problems that can be solved using [recursion](https://en.wikipedia.org/w
 ## Frequency counter
 
 - [Count unique values](../spec/list/count_unique_values/README.md)
+- [Max occurring char](../spec/string/max_occurring_char/README.md)
 
 ## List
 
@@ -47,6 +48,7 @@ List of problems that can be solved using [recursion](https://en.wikipedia.org/w
 - [Is tolerant palindrome](../spec/string/is_palindrome/tolerant/README.md)
 - [Is permutation palindrome](../spec/string/is_palindrome/permutation/README.md)
 - [Longest word](../spec/string/longest_word/README.md)
+- [Max occurring char](../spec/string/max_occurring_char/README.md)
 
 ## Range
 
