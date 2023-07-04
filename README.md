@@ -71,3 +71,4 @@ multiple times and be persistent over time.
 - [Is permutation palindrome](spec/string/is_palindrome/permutation)
 - [Is anagram](spec/string/is_anagram)
 - [Max occurring char](spec/string/max_occurring_char)
+- [String reverse](spec/string/reverse)
