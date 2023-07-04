@@ -69,4 +69,4 @@ multiple times and be persistent over time.
 - [Is palindrome](spec/string/is_palindrome/basic)
 - [Is tolerant palindrome](spec/string/is_palindrome/tolerant)
 - [Is permutation palindrome](spec/string/is_palindrome/permutation)
-- [Max occurring char](spec/string/max_repeated_char)
+- [Max occurring char](spec/string/max_occurring_char)
