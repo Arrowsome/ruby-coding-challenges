@@ -13,9 +13,9 @@ Don't use Ruby `String.reverse` function
 ## Examples
 
 ```ruby
-reverse('apple') == 'leppa'
+reverse_int('apple') == 'leppa'
 
-reverse('hello') == 'olleh'
+reverse_int('hello') == 'olleh'
 
-reverse('Greetings!') == '!sgniteerG'
+reverse_int('Greetings!') == '!sgniteerG'
 ```
