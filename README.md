@@ -74,4 +74,5 @@ multiple times and be persistent over time.
 - [String reverse](spec/string/reverse)
 - [Find the vowels](spec/string/vowels)
 - [Max occurring char](spec/string/max_occurring_char)
+- [Pyramid generator](spec/integer/pyramid)
 - [Steps generator](spec/integer/steps)
