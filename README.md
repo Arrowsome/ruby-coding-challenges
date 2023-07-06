@@ -77,3 +77,4 @@ multiple times and be persistent over time.
 - [Int reverse](spec/integer/reverse)
 - [Pyramid generator](spec/integer/pyramid)
 - [Steps generator](spec/integer/steps)
+- [Fizz Buzz](spec/integer/fizz_buzz)
