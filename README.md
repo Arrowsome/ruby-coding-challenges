@@ -78,3 +78,4 @@ multiple times and be persistent over time.
 - [Pyramid generator](spec/integer/pyramid)
 - [Steps generator](spec/integer/steps)
 - [Fizz Buzz](spec/integer/fizz_buzz)
+- [Caesar Cipher](spec/string/caesar_cipher)
