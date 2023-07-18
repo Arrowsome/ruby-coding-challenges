@@ -80,3 +80,7 @@ multiple times and be persistent over time.
 - [Fizz Buzz](spec/integer/fizz_buzz)
 - [Caesar Cipher](spec/string/caesar_cipher)
 - [Has repeated char](spec/string/has_repeated_char)
+
+**Warrior**
+
+- [Spiral matrix generator](spec/integer/matrix/spiral_generator)
