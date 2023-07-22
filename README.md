@@ -83,5 +83,5 @@ multiple times and be persistent over time.
 
 **Warrior**
 
-- [Spiral matrix generator](spec/integer/matrix/spiral_generator)
+- [Spiral matrix generator](spec/matrix/spiral_generator)
 - [Find rectangle](spec/matrix/find_rectangle)
