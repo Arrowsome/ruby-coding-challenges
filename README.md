@@ -85,3 +85,4 @@ multiple times and be persistent over time.
 
 - [Spiral matrix generator](spec/matrix/spiral_generator)
 - [Find rectangle](spec/matrix/find_rectangle)
+- [Stack](spec/class/stack)
