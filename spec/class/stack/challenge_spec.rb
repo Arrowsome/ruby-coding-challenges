@@ -24,7 +24,7 @@ end
 
 describe 'Stack' do
 
-  subject(:stack) { Solution2::Stack.new }
+  subject(:stack) { Stack.new }
 
   it "adds elements to stack" do
     expect(stack.size).to eq(0)
