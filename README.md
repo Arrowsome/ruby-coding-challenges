@@ -87,3 +87,4 @@ multiple times and be persistent over time.
 - [Find rectangle](spec/matrix/find_rectangle)
 - [Stack](spec/class/stack)
 - [Queue](spec/class/queue/basic)
+- [Combine queues](spec/class/queue/combine)
