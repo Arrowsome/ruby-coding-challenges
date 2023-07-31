@@ -88,3 +88,4 @@ multiple times and be persistent over time.
 - [Stack](spec/class/stack)
 - [Queue](spec/class/queue/basic)
 - [Combine queues](spec/class/queue/combine)
+- [Bubble sort](spec/list/sort/bubble_sort)
