@@ -92,3 +92,4 @@ multiple times and be persistent over time.
 - [Selection sort](spec/list/sort/selection_sort)
 - [Square equals](spec/list/square_equals)
 - [Sum zero](spec/list/sum_zero)
+- [Digit frequency](spec/integer/digit_frequency)
