@@ -93,3 +93,4 @@ multiple times and be persistent over time.
 - [Square equals](spec/list/square_equals)
 - [Sum zero](spec/list/sum_zero)
 - [Digit frequency](spec/integer/digit_frequency)
+- [Get duplicated arguments](spec/string/get_duplicated_arguments)
