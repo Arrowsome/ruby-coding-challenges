@@ -1,5 +1,3 @@
-require 'rspec'
-
 require_relative 'solution'
 
 def palindrome?(str)

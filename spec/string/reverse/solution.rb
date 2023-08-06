@@ -1,5 +1,5 @@
 module Solution1
-  
+
   def self.reverse(str)
     left_index = 0
     right_index = str.length - 1

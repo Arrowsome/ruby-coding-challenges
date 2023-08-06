@@ -1,5 +1,3 @@
-require 'rspec'
-
 require_relative 'solution'
 
 def count_up_then_down(n)

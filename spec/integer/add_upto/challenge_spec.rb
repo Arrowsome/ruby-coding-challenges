@@ -1,5 +1,3 @@
-require 'rspec'
-
 require_relative 'solution'
 
 def add_upto(n)
@@ -19,5 +17,5 @@ describe 'add_upto' do
   it '10 sums to 50' do
     expect(add_upto(10)).to eq(55)
   end
-  
+
 end

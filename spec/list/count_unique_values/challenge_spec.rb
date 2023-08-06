@@ -1,5 +1,3 @@
-require 'rspec'
-
 require_relative 'solution'
 
 def count_unique_values(numbers)

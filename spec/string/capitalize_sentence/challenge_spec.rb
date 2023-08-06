@@ -1,11 +1,8 @@
-require 'rspec'
 require_relative 'solution'
 
 def capitalize_sentence(str)
   raise NotImplementedError
 end
-
-
 
 RSpec.describe 'capitalize_sentence' do
 

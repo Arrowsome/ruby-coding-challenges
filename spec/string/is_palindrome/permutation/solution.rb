@@ -19,7 +19,7 @@ module Solution2
       .group_by(&:itself)
       .values
       .map(&:size)
-      .count { |c|  c.odd? } == 1
+      .count { |c| c.odd? } == 1
   end
 
 end

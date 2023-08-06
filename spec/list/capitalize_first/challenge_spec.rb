@@ -1,5 +1,3 @@
-require 'rspec'
-
 require_relative 'solution'
 
 def capitalize_first(words)

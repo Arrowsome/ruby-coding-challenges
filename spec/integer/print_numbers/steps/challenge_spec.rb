@@ -1,5 +1,3 @@
-require 'rspec'
-
 require_relative 'solution'
 
 def print_numbers_with_steps(n, step = 1)

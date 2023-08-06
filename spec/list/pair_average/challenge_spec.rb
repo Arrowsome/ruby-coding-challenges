@@ -1,5 +1,3 @@
-require 'rspec'
-
 require_relative 'solution'
 
 def has_pair_average?(array, average)

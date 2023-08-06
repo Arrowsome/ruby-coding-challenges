@@ -1,13 +1,13 @@
 module Solution1
-  
+
   def self.equal_digit_frequency?(n1, n2)
     freq1 = n1
-      .to_s.chars
-      .group_by { |c| c }
+              .to_s.chars
+              .group_by { |c| c }
 
     freq2 = n2
-      .to_s.chars
-      .group_by { |c| c }
+              .to_s.chars
+              .group_by { |c| c }
 
     freq1 == freq2
   end

@@ -1,10 +1,8 @@
-require 'rspec'
-
 # require_relative 'solution'
 
 def square_equals?(nums, squares)
   return false unless nums.length == squares.length
-  nums.map { |n| n**2 }.group_by { |e| e } == squares.group_by { |e| e }
+  nums.map { |n| n ** 2 }.group_by { |e| e } == squares.group_by { |e| e }
 
   # raise NotImplementedError
 end

@@ -1,5 +1,3 @@
-require 'rspec'
-
 require_relative 'solution'
 
 def contains_range?(range1, range2)

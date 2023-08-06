@@ -5,7 +5,7 @@ module Solution1
     n.times do |i|
       side_spaces = ' ' * (n - i - 1)
       hashes = '#' * ((i * 2) + 1)
-      pyr <<  "#{side_spaces}#{hashes}#{side_spaces}"
+      pyr << "#{side_spaces}#{hashes}#{side_spaces}"
     end
     pyr
   end
