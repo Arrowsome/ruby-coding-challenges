@@ -25,8 +25,6 @@ module Solution1
 
       node = BinaryNode.new(data: e)
       e > curr.data ? curr.right = node : curr.left = node
-
-      # raise NotImplementedError
     end
 
     def contains?(e)
@@ -45,10 +43,6 @@ module Solution1
           return false
         end
       end
-    end
-
-    def empty?
-      raise NotImplementedError
     end
 
   end
