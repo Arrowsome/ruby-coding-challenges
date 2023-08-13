@@ -96,3 +96,4 @@ multiple times and be persistent over time.
 - [Duplicated arguments](spec/string/duplicated_arguments)
 - [Find pair with target average](spec/list/pair_average)
 - [Binary search tree](spec/class/tree/binary_search_tree)
+- [Tree traversal (breath first)](spec/class/tree/traversal/breadth_first)
